@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Test site, please ignore!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+# This is just a test site!
+
+Working on figuring GitHub Pages out a bit. :)
